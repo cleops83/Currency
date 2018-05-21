@@ -1,0 +1,4 @@
+org/currency/Application.class
+org/currency/rest/CurrencyController.class
+org/currency/services/CurrencyService.class
+org/currency/dataobjects/CurrencyDO.class
